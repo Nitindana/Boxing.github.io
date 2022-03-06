@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cantainer a{
+    text-decoration: none;
+    position: absolute;
+    right: 960px; padding: 15px;
+    color: white;
+    font-size: 22px;
+    padding: 10px;
+}
+
+#c{
+    position: absolute;
+    right: 310px;
+}
+
+#b{
+    position: absolute;
+    right: 555px;
+}
+
+#f{
+    position: absolute;
+    right: 453px;
+}
+
+#s{
+    position: absolute;
+    right: 314px;
+}
+
+#c{
+    position: absolute;
+    right: 21px;
+}
+
+
+#m{
+    position: absolute;
+    right: 149px;
+}
+
+#home{
+    position: absolute;
+    right: 689px;
+    color: blue;
+}
+
+
+.logo img{
+    height: 60px;
+}
+
+
+.full{
+    background-color: rgb(39, 59, 59);}
+
+
+    .logo #M{
+        color: brown;
+        position: absolute;
+        left: 84px;
+        top: 15px;
+        color: white;
+    }
+
+    .logo #F{
+        color: yellow;
+        position: absolute;
+        left: 222px;
+        top: 15px;
+    }
+
+    #bg{
+        background-repeat: no-repeat;
+        height: 50px;
+        display: flex;
+        background-size: cover;
+    }
+
+
+    #T #T{
+        color: white;
+        /* background-color black;  */
+        align-items: center;
+        position: absolute;
+        left: 338px;
+    top: 152px;
+    font-size: 68px;
+    }
+    #T p{
+        position: absolute;
+        text-align: center;
+        left: 129px;
+        top: 263px;
+        font-size: 44px;
+        color: white;
+    }
+
+    #btn #N{
+        border: 2px solid #3498db; 
+        background: none;
+        padding: 10px 20px;
+    }
+
